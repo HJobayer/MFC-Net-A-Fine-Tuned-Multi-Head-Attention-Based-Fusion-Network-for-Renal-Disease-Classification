@@ -1,4 +1,5 @@
-The work represents comparison between modern deep learning and fusion models which
+<p align="justify">
+  The work represents comparison between modern deep learning and fusion models which
 is solution to multiclass categorization (normal, cysts, tumors, stones) of renal disease
 classification. The accuracy of detecting renal diseases is crucial for treatment. Despite
 having machines interpret their CT scans, it is a labor-intensive exercise that takes time.
@@ -18,3 +19,4 @@ this, we validated the interpretation of the model using Grad-CAM and Grad-CAM++
 These confirmed that the model localizes pathological areas and can do this based on the
 pathology without relying on artefacts. MFC-Net enabled an accurate and explainable
 computer-aided diagnosis of nephrology indicating its usefulness.
+</p>
